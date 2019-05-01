@@ -1,0 +1,36 @@
+2017-07-06 15:34:02,996 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 15:34:03,000 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 15:34:03,781 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 15:34:03,838 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 15:34:03,839 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 15:34:04,383 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 15:34:10,715 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 15:34:10,715 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 15:34:11,284 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 15:34:11,344 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 15:34:11,344 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 15:34:11,904 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 16:08:12,460 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 16:08:12,462 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 16:08:13,164 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 16:08:13,221 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 16:08:13,221 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 16:08:13,716 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 16:49:43,796 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 16:49:43,798 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 16:49:44,483 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 16:49:44,536 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 16:49:44,537 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 16:49:45,031 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 17:21:07,205 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 17:21:07,207 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 17:21:07,879 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 17:21:07,940 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 17:21:07,941 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 17:21:08,516 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 17:41:53,496 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 17:41:53,498 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 17:41:54,210 [main] DEBUG AppEmailAction :68 - send email is success
+2017-07-06 17:41:54,268 [main] DEBUG AppEmailAction :56 - starting proccess send email
+2017-07-06 17:41:54,268 [main] DEBUG AppEmailAction :58 - processing send email
+2017-07-06 17:41:54,859 [main] DEBUG AppEmailAction :68 - send email is success

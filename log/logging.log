@@ -1,0 +1,6 @@
+2017-08-03 14:11:35,115 [main] DEBUG AppEmailAction :62 - starting proccess send email
+2017-08-03 14:11:35,133 [main] DEBUG AppEmailAction :64 - processing send email
+2017-08-03 14:11:35,818 [main] DEBUG AppEmailAction :74 - send email is success
+2017-08-03 14:15:09,980 [main] DEBUG AppEmailAction :62 - starting proccess send email
+2017-08-03 14:15:09,982 [main] DEBUG AppEmailAction :64 - processing send email
+2017-08-03 14:15:10,677 [main] DEBUG AppEmailAction :74 - send email is success
